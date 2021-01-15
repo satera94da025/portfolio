@@ -1,0 +1,24 @@
+.jobsBlock {
+    height: 100vh;
+    background-color: #2d3535;
+}
+
+.jobsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+    background-color: cyan;
+}
+
+.jobs {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.project {
+    color: red;
+}
