@@ -16,9 +16,9 @@ function Footer() {
                     <a href={'#'}>Pinterest</a>
 
                 </div>
-                <p className={style.block}>
+                <div className={style.block}>
                     © 2021 DAV6ID-PROGER, All Rights Reserved.
-                </p>
+                </div>
             </div>
         </footer>
 

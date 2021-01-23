@@ -1,14 +1,23 @@
 .job {
-    width: 100%;
+    flex: 450px;
     background-color: antiquewhite;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
+    border: black solid 1px;
+    flex-wrap: wrap;
+
+
 }
 
 .icon {
-    height: 60px;
-    width: 60px;
+    height: 30vh;
+    width: 100%;
     background-color: orchid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+

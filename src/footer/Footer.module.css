@@ -1,12 +1,17 @@
 .ul {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    width: 55vh;
-    height: 10vh;
+    max-width: 100vh;
+    max-height: 100vh;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+
 }
 
 .block {
     display: flex;
     justify-content: space-evenly;
+    min-width: 10vh;
+    flex-wrap: wrap;
+
 }

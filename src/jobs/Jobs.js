@@ -11,10 +11,6 @@ function Jobs() {
                 <div className={style.jobs}>
                     <Job project={'Counter'} description={'Counter with hooks'}/>
                     <Job project={'Todolist'} description={'FLEX-BOX MODULE'}/>
-                    <Job project={'Social-network'} description={'Hooks '}/>
-                    <Job project={'bla bla'} description={'bla bla '}/>
-                    <Job project={'bla la'} description={'bla bla '}/>
-                    <Job project={'bla'} description={'bla '}/>
                 </div>
             </div>
         </div>
