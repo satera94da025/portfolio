@@ -1,6 +1,7 @@
 .jobsBlock {
-    height: 100vh;
+    min-height: 100vh;
     background-color: #2d3535;
+
 }
 
 .jobsContainer {
@@ -17,6 +18,7 @@
     width: 100%;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .project {
