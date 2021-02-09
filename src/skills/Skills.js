@@ -15,6 +15,8 @@ function Skills() {
                     <Skill title={'React - Redux'} description={'bla bla '}/>
                     <Skill title={'TypeScript'} description={'bla bla '}/>
                     <Skill title={'Unit testing'} description={'Jest '}/>
+                    <Skill title={'Redux'} description={'Hooks '}/>
+                    <Skill title={'English level'} description={'Intermediate'}/>
                 </div>
             </div>
         </div>

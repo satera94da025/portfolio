@@ -4,16 +4,15 @@ import styleContainer from "../common/styles/Container.module.css";
 
 function Footer() {
     return (<footer className={styleContainer.container}>
-            <div>
+            <div >
                 <div className={style.block}><a><h2>Alexandr</h2></a></div>
 
                 <div className={style.ul}>
 
-                    <a href={'#'}>Facebook</a>
-                    <a href={'#'}>Twitter</a>
-                    <a href={'#'}>Dribble</a>
+                    <a href={'#'}>GitHub</a>
+                    <a href={'#'}>Mail</a>
                     <a href={'#'}>Linkedin</a>
-                    <a href={'#'}>Pinterest</a>
+                    <a href={'#'}>HeadHunter</a>
 
                 </div>
                 <div className={style.block}>

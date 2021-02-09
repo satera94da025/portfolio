@@ -1,6 +1,6 @@
 .skillsBlock {
     min-height: 100vh;
-    background-color: cornflowerblue;
+    background-color: #181A1A;
 
 }
 
@@ -13,11 +13,11 @@
 }
 
 .title {
-    background-color: cyan;
+
+    color: red;
 }
 
 .skills {
-    border: 1px solid;
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;

@@ -1,6 +1,7 @@
 .mainBlock {
     height: 100vh;
-    background-color: burlywood;
+    background-color: #2d3535;
+    color: red;
 }
 
 .text {
