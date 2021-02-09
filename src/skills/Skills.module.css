@@ -12,16 +12,14 @@
 
 }
 
-.title {
-
-    color: red;
-}
 
 .skills {
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;
     width: 100%;
+
+
 
 
 

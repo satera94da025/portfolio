@@ -5,7 +5,8 @@
     max-height: 100vh;
     flex-wrap: wrap;
     padding-bottom: 10px;
-    background-color: #181A1A;
+
+
 
 }
 
@@ -15,6 +16,6 @@
     min-width: 10vh;
     flex-wrap: wrap;
     color: red;
-    background-color: #2d3535;
+
 
 }
