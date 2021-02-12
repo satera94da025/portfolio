@@ -5,7 +5,7 @@ import style from './Job.module.css'
 function Job(props) {
     return(
         <div className={style.job}>
-            <div className={style.icon}><button>View</button>
+            <div className={style.icon} style={props.style}><button className={style.bottom}>View</button>
             </div>
             <h3 className={style.projectTitle}>{props.project}</h3>
             <span className={style.description}>

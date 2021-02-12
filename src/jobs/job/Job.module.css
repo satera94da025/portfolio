@@ -9,15 +9,20 @@
     flex-wrap: wrap;
 
 
+
 }
 
 .icon {
-    height: 30vh;
+    height: 50vh;
     width: 100%;
     background-color: antiquewhite;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
 
 .projectTitle {
@@ -37,4 +42,12 @@
     margin: 0 0 5px;
     font-weight: 400;
     color: antiquewhite;
+}
+
+.bottom {
+    background-color: black;
+    color: red;
+    border-radius: 10vh;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
 }
