@@ -1,6 +1,8 @@
+@import "../common/styles/sass/variables";
+
 .jobsBlock {
   min-height: 100vh;
-  background-color: #2d3535;
+  background-color: $BackgroundColor1;
 
   .jobsContainer {
     flex-direction: column;
@@ -16,7 +18,7 @@
       margin-bottom: 15px;
       font-size: 16px;
       font-family: 'Josefin Sans', sans-serif;
-      color: antiquewhite;
+      color: $DescriptionTextColor;
       @media screen and (min-width: 1129px) {
         justify-content: center;
       }

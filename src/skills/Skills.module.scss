@@ -1,6 +1,7 @@
+@import "../common/styles/sass/variables";
 .skillsBlock {
     min-height: 100vh;
-    background-color: #181A1A;
+    background-color: $BackgroundColor2;
     .skillsContainer {
         flex-direction: column;
         justify-content: flex-start;

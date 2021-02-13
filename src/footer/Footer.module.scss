@@ -1,3 +1,4 @@
+@import "../common/styles/sass/variables";
 .ul {
     display: flex;
     justify-content: space-between;
@@ -15,7 +16,7 @@
     justify-content: space-evenly;
     min-width: 10vh;
     flex-wrap: wrap;
-    color: red;
+    color: $MainTextColor;
 
 
 }

@@ -1,10 +1,12 @@
+@import "../common/styles/sass/variables";
+
 .mainBlock {
     height: 100vh;
-    background-color: #2d3535;
-    color: red;
+    background-color: $BackgroundColor1;
+    color: $MainTextColor;
     .text {
         width: 300px;
-        background-color: antiquewhite;
+        background-color: $DescriptionTextColor;
         font-family: 'Josefin Sans', sans-serif;
         letter-spacing: 5px;
         line-height: 1.2;
@@ -12,7 +14,7 @@
     .photo {
         width: 300px;
         height: 400px;
-        background-color: antiquewhite;
+        background-color: $DescriptionTextColor;
     }
 }
 

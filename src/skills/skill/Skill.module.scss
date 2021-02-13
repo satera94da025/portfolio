@@ -1,6 +1,8 @@
+@import "../../common/styles/sass/variables";
+
 .skill {
     flex:1 0 250px;
-    background-color: #2d3535;
+    background-color: $BackgroundColor1;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -10,7 +12,7 @@
     .icon {
         height: 65px;
         width: 70px;
-        background-color: antiquewhite;
+        background-color: $DescriptionTextColor;
         background-size: cover;
         background-position: center;
 
@@ -22,7 +24,7 @@
         line-height: 1.2;
         margin-bottom: 15px;
         font-size: 18px;
-        color: red;
+        color: $MainTextColor;
     }
     .description {
         font-family: 'Poppins', sans-serif;
@@ -31,7 +33,7 @@
         letter-spacing: 1px;
         margin: 0 0 5px;
         font-weight: 400;
-        color: antiquewhite;
+        color: $DescriptionTextColor;
     }
 }
 
