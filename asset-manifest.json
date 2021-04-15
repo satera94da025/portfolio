@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.656c1312.chunk.css",
-    "main.js": "/portfolio/static/js/main.9e6e1f40.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9e6e1f40.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.0b5bb60e.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0b5bb60e.js.map",
-    "static/js/2.63ab9a6c.chunk.js": "/portfolio/static/js/2.63ab9a6c.chunk.js",
-    "static/js/2.63ab9a6c.chunk.js.map": "/portfolio/static/js/2.63ab9a6c.chunk.js.map",
-    "static/js/3.2c551a8c.chunk.js": "/portfolio/static/js/3.2c551a8c.chunk.js",
-    "static/js/3.2c551a8c.chunk.js.map": "/portfolio/static/js/3.2c551a8c.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.a6d1b923.chunk.css",
+    "main.js": "/portfolio/static/js/main.a87aa3f8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a87aa3f8.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.25ad009f.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.25ad009f.js.map",
+    "static/js/2.70746a81.chunk.js": "/portfolio/static/js/2.70746a81.chunk.js",
+    "static/js/2.70746a81.chunk.js.map": "/portfolio/static/js/2.70746a81.chunk.js.map",
+    "static/js/3.c7982d9e.chunk.js": "/portfolio/static/js/3.c7982d9e.chunk.js",
+    "static/js/3.c7982d9e.chunk.js.map": "/portfolio/static/js/3.c7982d9e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.656c1312.chunk.css.map": "/portfolio/static/css/main.656c1312.chunk.css.map",
-    "static/js/2.63ab9a6c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.63ab9a6c.chunk.js.LICENSE.txt",
+    "static/css/main.a6d1b923.chunk.css.map": "/portfolio/static/css/main.a6d1b923.chunk.css.map",
+    "static/js/2.70746a81.chunk.js.LICENSE.txt": "/portfolio/static/js/2.70746a81.chunk.js.LICENSE.txt",
     "static/media/MyPhoto.897e1d5b.jpg": "/portfolio/static/media/MyPhoto.897e1d5b.jpg",
     "static/media/React-Redux.png.5cac9f5f.webp": "/portfolio/static/media/React-Redux.png.5cac9f5f.webp",
     "static/media/React.e1f4b883.png": "/portfolio/static/media/React.e1f4b883.png",
@@ -21,9 +21,9 @@
     "static/media/uniTest.e811a9b1.jpg": "/portfolio/static/media/uniTest.e811a9b1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b5bb60e.js",
-    "static/js/2.63ab9a6c.chunk.js",
-    "static/css/main.656c1312.chunk.css",
-    "static/js/main.9e6e1f40.chunk.js"
+    "static/js/runtime-main.25ad009f.js",
+    "static/js/2.70746a81.chunk.js",
+    "static/css/main.a6d1b923.chunk.css",
+    "static/js/main.a87aa3f8.chunk.js"
   ]
 }
