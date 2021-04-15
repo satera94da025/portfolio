@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1e4296eb.chunk.css",
-    "main.js": "/portfolio/static/js/main.2d57422e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2d57422e.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.a0c7993d.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a0c7993d.js.map",
-    "static/js/2.2b774fcb.chunk.js": "/portfolio/static/js/2.2b774fcb.chunk.js",
-    "static/js/2.2b774fcb.chunk.js.map": "/portfolio/static/js/2.2b774fcb.chunk.js.map",
-    "static/js/3.9d8ef095.chunk.js": "/portfolio/static/js/3.9d8ef095.chunk.js",
-    "static/js/3.9d8ef095.chunk.js.map": "/portfolio/static/js/3.9d8ef095.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.656c1312.chunk.css",
+    "main.js": "/portfolio/static/js/main.9e6e1f40.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9e6e1f40.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0b5bb60e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0b5bb60e.js.map",
+    "static/js/2.63ab9a6c.chunk.js": "/portfolio/static/js/2.63ab9a6c.chunk.js",
+    "static/js/2.63ab9a6c.chunk.js.map": "/portfolio/static/js/2.63ab9a6c.chunk.js.map",
+    "static/js/3.2c551a8c.chunk.js": "/portfolio/static/js/3.2c551a8c.chunk.js",
+    "static/js/3.2c551a8c.chunk.js.map": "/portfolio/static/js/3.2c551a8c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.1e4296eb.chunk.css.map": "/portfolio/static/css/main.1e4296eb.chunk.css.map",
-    "static/js/2.2b774fcb.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2b774fcb.chunk.js.LICENSE.txt",
+    "static/css/main.656c1312.chunk.css.map": "/portfolio/static/css/main.656c1312.chunk.css.map",
+    "static/js/2.63ab9a6c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.63ab9a6c.chunk.js.LICENSE.txt",
+    "static/media/MyPhoto.897e1d5b.jpg": "/portfolio/static/media/MyPhoto.897e1d5b.jpg",
     "static/media/React-Redux.png.5cac9f5f.webp": "/portfolio/static/media/React-Redux.png.5cac9f5f.webp",
     "static/media/React.e1f4b883.png": "/portfolio/static/media/React.e1f4b883.png",
     "static/media/Redux.e12554e4.png": "/portfolio/static/media/Redux.e12554e4.png",
-    "static/media/counter.5b8f2ed0.png": "/portfolio/static/media/counter.5b8f2ed0.png",
-    "static/media/todo.6ba4f0a1.png": "/portfolio/static/media/todo.6ba4f0a1.png",
+    "static/media/socialNetwork.5eb68144.jpg": "/portfolio/static/media/socialNetwork.5eb68144.jpg",
+    "static/media/todo.b8b4e801.jpg": "/portfolio/static/media/todo.b8b4e801.jpg",
     "static/media/uniTest.e811a9b1.jpg": "/portfolio/static/media/uniTest.e811a9b1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0c7993d.js",
-    "static/js/2.2b774fcb.chunk.js",
-    "static/css/main.1e4296eb.chunk.css",
-    "static/js/main.2d57422e.chunk.js"
+    "static/js/runtime-main.0b5bb60e.js",
+    "static/js/2.63ab9a6c.chunk.js",
+    "static/css/main.656c1312.chunk.css",
+    "static/js/main.9e6e1f40.chunk.js"
   ]
 }
