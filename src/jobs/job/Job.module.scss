@@ -50,8 +50,10 @@
   }
 
   .bottom {
+    text-decoration: none;
     background-color: black;
-    color: $MainTextColor;
+
+    color: red;
     border-radius: 10vh;
     font-size: 20px;
     font-family: 'Poppins', sans-serif;

@@ -9,6 +9,7 @@ import Fade from 'react-reveal/Fade';
 
 
 
+
 function Jobs() {
 
     const todoImg = {
@@ -18,6 +19,8 @@ function Jobs() {
     const counterImg = {
         backgroundImage: `url(${socialNetworkImage})`
     }
+
+
     return (
         <div id={"jobs"} className={style.jobsBlock}>
             <Fade bottom>
@@ -25,8 +28,8 @@ function Jobs() {
                     <Title text={'My Projects'}/>
 
                     <div className={style.jobs}   >
-                        <Job style={counterImg} project={'COUNTER'} description={'Counter with hooks'}/>
-                        <Job style={todoImg} project={'TODOLIST'} description={'Flex box module'}/>
+                        <Job style={counterImg} project={'SocialNetwork'} description={'Counter with hooks'} adress={'https://satera94da025.github.io/SocialNetwork/'} />
+                        <Job style={todoImg} project={'TODOLIST'} description={'Flex box module'} adress={'https://satera94da025.github.io/todolist/'}/>
 
                     </div>
                 </div>

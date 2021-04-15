@@ -11,8 +11,8 @@ function Footer() {
 
                 <div className={style.ul}>
 
-                    <a href={'https://github.com/satera94da025'}>GitHub</a>
-                    <a href={'#'}>Mail</a>
+                    <a  href={'https://github.com/satera94da025'}>GitHub</a>
+                    <a href={'https://t.me/Satera94'}>Telegramm</a>
                     <a href={'https://www.linkedin.com/in/aleksandr-dovydov-aa0325206/'}>Linkedin</a>
                     <a href={'https://spb.hh.ru/resume/400690b3ff05fe1e990039ed1f6a55596d4149'}>HeadHunter</a>
 
