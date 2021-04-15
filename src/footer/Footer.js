@@ -3,9 +3,11 @@ import style from './Footer.module.scss'
 import styleContainer from "../common/styles/Container.module.scss";
 
 function Footer() {
-    return (<footer className={styleContainer.container}>
-            <div >
-                <div className={style.block}><a><h2>Alexandr</h2></a></div>
+    return (<footer id={"contacts"} className={styleContainer.container}>
+            <div>
+                <div className={style.block}><a><h2>
+                    Alexandr
+                </h2></a></div>
 
                 <div className={style.ul}>
 

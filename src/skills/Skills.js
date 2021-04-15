@@ -11,10 +11,12 @@ import jsImg from './../assets/image/js.png'
 import sImg from './../assets/image/storyB.png'
 import tImg from './../assets/image/typescript.png'
 import uniImg from './../assets/image/uniTest.jpg'
+import Fade from 'react-reveal/Fade';
+
 function Skills() {
 
     const reactImage = {
-        backgroundImage: `url(${reactImg })`
+        backgroundImage: `url(${reactImg})`
     }
 
     const reduxImage = {
@@ -40,25 +42,28 @@ function Skills() {
         backgroundImage: `url(${tImg})`
     }
     const uniImage = {
-        backgroundImage: `url(${uniImg })`
+        backgroundImage: `url(${uniImg})`
     }
     return (
-        <div className={style.skillsBlock}>
-            <div className={`${styleContainer.container} ${style.skillsContainer}`}>
-               <Title text={'My skills'}/>
+        <div id={'skills'} className={style.skillsBlock}>
+            <Fade bottom>
+                <div className={`${styleContainer.container} ${style.skillsContainer}`}>
+                    <Title text={'My skills'}/>
 
-                <div className={style.skills}>
-                    <Skill style={jsImage} title={'Js'} description={'ES6+'}/>
-                    <Skill style={sImage} title={'StoryBook'} description={'base skills'}/>
-                    <Skill style={cssImage} title={'CSS'} description={'FLEX-BOX MODULE'}/>
-                    <Skill style={reactImage} title={'React'} description={'Hooks '}/>
-                    <Skill style={reactReduxImage} title={'React - Redux'} description={'bla bla '}/>
-                    <Skill style={tImage} title={'TypeScript'} description={'bla bla '}/>
-                    <Skill style={uniImage} title={'Unit testing'} description={'Jest '}/>
-                    <Skill style={reduxImage} title={'Redux'} description={'Hooks '}/>
+                    <div className={style.skills}>
+                        <Skill style={jsImage} title={'Js'} description={'ES6+'}/>
+                        <Skill style={sImage} title={'StoryBook'} description={'base skills'}/>
+                        <Skill style={cssImage} title={'CSS'} description={'FLEX-BOX MODULE'}/>
+                        <Skill style={reactImage} title={'React'} description={'Hooks '}/>
+                        <Skill style={reactReduxImage} title={'React - Redux'} description={'bla bla '}/>
+                        <Skill style={tImage} title={'TypeScript'} description={'bla bla '}/>
+                        <Skill style={uniImage} title={'Unit testing'} description={'Jest '}/>
+                        <Skill style={reduxImage} title={'Redux'} description={'Hooks '}/>
 
+                    </div>
                 </div>
-            </div>
+            </Fade>
+
         </div>
     )
 }
