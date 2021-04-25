@@ -36,7 +36,7 @@ function Nav() {
                 smooth={true}
                 offset={1}
                 duration={500}
-            >Contacts</Link>
+            >About me</Link>
         </div>
     )
 }

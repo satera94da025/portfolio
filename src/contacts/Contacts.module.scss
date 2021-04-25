@@ -7,14 +7,17 @@
     .contactsContainer {
         flex-direction: column;
         justify-content: flex-start;
+        flex-wrap: nowrap;
         .contactsForm{
+            flex-wrap: nowrap;
+            max-width: 70vh;
+            max-height: 40vh;
+            font-family: $DescriptionFontFamily;
+            line-height: 35px;
+            letter-spacing: 0.8px;
 
-            width: 100%;
-            height: 70vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
+
+            color: #f1ecec;
 
 
         }

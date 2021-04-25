@@ -13,6 +13,7 @@ import tImg from './../assets/image/typescript.png'
 import uniImg from './../assets/image/uniTest.jpg'
 import Fade from 'react-reveal/Fade';
 
+
 function Skills() {
 
     const reactImage = {
@@ -52,13 +53,13 @@ function Skills() {
 
                     <div className={style.skills}>
                         <Skill style={jsImage} title={'Js'} description={'ES6+'}/>
-                        <Skill style={sImage} title={'StoryBook'} description={'base skills'}/>
-                        <Skill style={cssImage} title={'CSS'} description={'FLEX-BOX MODULE'}/>
-                        <Skill style={reactImage} title={'React'} description={'Hooks '}/>
-                        <Skill style={reactReduxImage} title={'React - Redux'} description={'bla bla '}/>
-                        <Skill style={tImage} title={'TypeScript'} description={'bla bla '}/>
+                        <Skill style={sImage} title={'StoryBook'} description={'Working with individual components'}/>
+                        <Skill style={cssImage} title={'CSS'} description={'Less, Scss, Sass, Flex-box, Grid'}/>
+                        <Skill style={reactImage} title={'React'} description={'Hooks, JSX, Virtual-DOM'}/>
+                        <Skill style={reactReduxImage} title={'React - Redux'} description={'Hooks, Store, React-Router-DOM '}/>
+                        <Skill style={tImage} title={'TypeScript'} description={'Utility Types, Generics, Enums, Interface, Type'}/>
                         <Skill style={uniImage} title={'Unit testing'} description={'Jest '}/>
-                        <Skill style={reduxImage} title={'Redux'} description={'Hooks '}/>
+                        <Skill style={reduxImage} title={'Redux'} description={'Hooks, Reducer'}/>
 
                     </div>
                 </div>

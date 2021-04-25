@@ -28,8 +28,8 @@ function Jobs() {
                     <Title text={'My Projects'}/>
 
                     <div className={style.jobs}   >
-                        <Job style={counterImg} project={'SocialNetwork'} description={'Counter with hooks'} adress={'https://satera94da025.github.io/SocialNetwork/'} />
-                        <Job style={todoImg} project={'TODOLIST'} description={'Flex box module'} adress={'https://satera94da025.github.io/todolist/'}/>
+                        <Job style={counterImg} project={'SocialNetwork'} description={'This is my first serious project where I learned how to program using different libraries and patterns, working with arrays, objects, server.'} adress={'https://satera94da025.github.io/SocialNetwork/'} />
+                        <Job style={todoImg} project={'TODOLIST'} description={'Here is a modern approach on functional components, where I have consolidated my ReactFrontEnd-Developer skills and am ready for teamwork in large projects on a commercial basis'} adress={'https://satera94da025.github.io/todolist/'}/>
 
                     </div>
                 </div>
